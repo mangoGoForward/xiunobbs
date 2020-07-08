@@ -91,7 +91,7 @@ return array (
   'cate' => 
   array (
     1 => '页脚文章',
-    2 => '公司动态',
+    2 => '动态',
   ),
   'user_create_email_on' => 0,
   'user_find_pw_on' => 0,
